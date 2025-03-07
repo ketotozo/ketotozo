@@ -13,7 +13,7 @@ Olá, sou o **Keverton**, desenvolvedor apaixonado por tecnologia e inovação. 
 Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no YouTube, Instagram e Replit para mais interações e projetos:
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://www.instagram.com/_keve.sz/#"></a>
+  <a href="https://www.instagram.com/_keve.sz/"></a>
   <a href="https://replit.com/@_keve.sz">
     <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Ícone Replit" style="margin: 0 10px;">
   </a>
